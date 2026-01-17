@@ -6,6 +6,7 @@ Key Features Our platform uses multimodal analysis powered by Google Gemini 1.5 
 
 Project Demo Since video files can sometimes be difficult to view directly on GitHub, please use the link below to watch the mandatory demonstration of the working project:
 
-Click here to watch the working Project Demo video (Project Demo.mp4)
+📽️ Project Demo
+[Click here to watch the working Project Demo video](Project%20Demo.mp4)
 
 Technical Stack The project is built using a robust set of tools including Google Gemini 1.5 Flash for the large language model and OpenAI Whisper for speech-to-text. For the video processing and computer vision elements, we utilized MoviePy and MediaPipe. The entire user interface is built on the Streamlit web framework.
