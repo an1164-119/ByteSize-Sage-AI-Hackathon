@@ -1,19 +1,11 @@
-# PulsePoint AI - ByteSize Sage AI Hackathon
+Project Title: PulsePoint AI for the ByteSize Sage AI Hackathon
 
-PulsePoint AI is a content intelligence platform designed to master the **Attention Economy**. It uses **GenAI** and **Multimodal models** to transform long-form educational content into viral-ready vertical reels.
+About the Project PulsePoint AI is a content intelligence platform created to help creators master the attention economy. The system uses Generative AI and multimodal models to take long educational videos and turn them into engaging, viral-ready vertical reels.
 
-## 🚀 Key Features
-* **Multimodal Analysis**: Uses Google Gemini 1.5 Flash to identify "Emotional Peaks" and viral "Golden Nuggets".
-* **Smart-Crop to Vertical**: Automatically tracks speakers using computer vision (MediaPipe) to maintain 9:16 framing.
-* **Dynamic Captions**: Generates high-accuracy, timed overlays using OpenAI Whisper.
+Key Features Our platform uses multimodal analysis powered by Google Gemini 1.5 Flash to pinpoint emotional peaks and the most valuable golden nuggets of information within a video. To ensure the content is ready for mobile viewing, we use computer vision through MediaPipe to automatically track the speaker and maintain a perfect 9:16 vertical frame. Additionally, we use OpenAI Whisper to generate highly accurate, timed captions that keep viewers engaged.
 
-## 📽️ Project Demo
-Since GitHub Markdown sometimes hides local video files, use this direct link to satisfy the mandatory demo requirement:
+Project Demo Since video files can sometimes be difficult to view directly on GitHub, please use the link below to watch the mandatory demonstration of the working project:
 
-[Click here to watch the working Project Demo video](Project%20Demo.mp4)
+Click here to watch the working Project Demo video (Project Demo.mp4)
 
-## 🛠️ Tech Stack
-* **LLM**: Google Gemini 1.5 Flash
-* **Speech-to-Text**: OpenAI Whisper
-* **Video Processing**: MoviePy & MediaPipe
-* **Web Framework**: Streamlit
+Technical Stack The project is built using a robust set of tools including Google Gemini 1.5 Flash for the large language model and OpenAI Whisper for speech-to-text. For the video processing and computer vision elements, we utilized MoviePy and MediaPipe. The entire user interface is built on the Streamlit web framework.
