@@ -7,9 +7,6 @@ Key Features Our platform uses multimodal analysis powered by Google Gemini 1.5 
 Project Demo Since video files can sometimes be difficult to view directly on GitHub, please use the link below to watch the mandatory demonstration of the working project:
 
 📽️ Project Demo
-[▶️ Click here to watch the Project Demo](Project%20Demo.mp4)
-
-**Project Demo**
 <p align="center">
   <video src="https://github.com/user-attachments/assets/05a0e4dd-ed0d-4447-b8d7-49516329dae7" width="100%" controls></video>
 </p>
