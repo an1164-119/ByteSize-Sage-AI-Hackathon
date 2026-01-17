@@ -2,4 +2,3 @@ streamlit
 moviepy
 openai-whisper
 google-generativeai
-opencv-python
