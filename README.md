@@ -8,4 +8,9 @@ Project Demo Since video files can sometimes be difficult to view directly on Gi
 
 📽️ Project Demo
 [▶️ Click here to watch the Project Demo](Project%20Demo.mp4)
+
+**Project Demo**
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/05a0e4dd-ed0d-4447-b8d7-49516329dae7" width="100%" controls></video>
+</p>
 Technical Stack The project is built using a robust set of tools including Google Gemini 1.5 Flash for the large language model and OpenAI Whisper for speech-to-text. For the video processing and computer vision elements, we utilized MoviePy and MediaPipe. The entire user interface is built on the Streamlit web framework.
